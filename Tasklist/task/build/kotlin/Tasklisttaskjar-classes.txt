@@ -1,0 +1,1 @@
+/Users/artem/IdeaProjects/Tasklist/Tasklist/task/build/classes/kotlin/main/tasklist/MainKt.class:/Users/artem/IdeaProjects/Tasklist/Tasklist/task/build/classes/kotlin/main/tasklist/TaskList.class

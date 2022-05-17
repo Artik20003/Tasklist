@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    import kotlinx.datetime.*
+
+    fun nextMonth(date: String): String {
+        // Write your code here
+
+        //
+    }
+
+    fun main() {
+        val date = readLine()!!
+        println(nextMonth(date))
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19466#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 16 May 2022 03:32:11 UTC
+record: -1
